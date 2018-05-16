@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Test Git Repo Commit Table" max_length="40" name="x_snc_test_git_rep_test_git_repo_commit_table" type="collection"/>
+</database>
